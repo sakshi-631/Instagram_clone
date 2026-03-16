@@ -1,20 +1,23 @@
-<<<<<<< HEAD
-# Instagram_clone
-=======
-# instagram_feed
+# Instagram Clone
 
-A new Flutter project.
+A Flutter app that replicates basic Instagram functionality.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Shimmer Loading**: Shows placeholder while content loads  
+- **Infinite Scrolling**: Smooth loading of posts when scrolling  
+- **Pinch-to-Zoom**: Zoom in/out images in posts  
+- **Toggle Interactions**: Like and Save posts with state updates  
 
-A few resources to get you started if this is your first Flutter project:
+## State Management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project uses **Provider** for efficient state management of likes, saves, and UI updates.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> cd6f5a2 (Initial commit)
+## How to Run
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/sakshi-631/Instagram_clone.git
+2. Go to project directory:  cd Instagram_clone
+3. Install dependencies:  flutter pub get
+4. Run the app:  flutter run
