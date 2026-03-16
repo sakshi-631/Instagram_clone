@@ -15,9 +15,11 @@ This project uses **Provider** for efficient state management of likes, saves, a
 
 ## How to Run
 
-1. Clone the repository:  
+1. Clone the repository :  
    ```bash
    git clone https://github.com/sakshi-631/Instagram_clone.git
-2. Go to project directory:  cd Instagram_clone
-3. Install dependencies:  flutter pub get
-4. Run the app:  flutter run
+2. Go to project directory :   cd Instagram_clone
+   
+3. Install dependencies :   flutter pub get
+
+4. Run the app :  flutter run
